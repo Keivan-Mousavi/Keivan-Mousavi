@@ -12,10 +12,17 @@ Only Absolute Coding
 
 Every morning I wake up and stand in front of the mirror, I tell myself, "My lord, there are lots of new things to learn today.
 
+<table>
+  <tr>
+    <td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keivan-Mousavi&show_icons=true&theme=radical)
+    </td>
+    <td>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keivan-Mousavi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keivan-Mousavi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keivan-Mousavi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 Keivan-Mousavi/Keivan-Mousavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
