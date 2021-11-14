@@ -12,9 +12,8 @@ Only Absolute Coding
 
 Every morning I wake up and stand in front of the mirror, I tell myself, "My lord, there are lots of new things to learn today.
 
-<center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keivan-Mousavi&show_icons=true&theme=radical)
-</center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keivan-Mousavi&show_icons=true&theme=radical)
   
   
 <!---
