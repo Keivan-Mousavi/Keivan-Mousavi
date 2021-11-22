@@ -14,7 +14,7 @@ Every morning I wake up and stand in front of the mirror, I tell myself, "My lor
 
 <p align="center">
 
-  <img src="http://persianprogrammer.com/Images/logo.png" class="img-responsive" alt="Persian Programmer" tititle="Persian Programmer">
+  <img width="500" src="http://persianprogrammer.com/Images/logo.png" alt="Persian Programmer" tititle="Persian Programmer">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keivan-Mousavi&show_icons=true&theme=radical)
 
