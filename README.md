@@ -10,7 +10,7 @@ Love learning
 
 Only Absolute Coding
 
-Every morning I wake up and stand in front of the mirror, I tell myself, "My lord, there are lots of new things to learn today.
+Every morning I wake up and stand in front of the mirror, I tell myself, "My lord, there are lots of new things to learn today".
 
 <p align="center">
 
